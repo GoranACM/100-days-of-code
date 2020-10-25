@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 24, 2020
+### Day 1: October 24, 2020
 
 **Today's Progress**: Created a Notion template for the challenge and submitted it for review. 
 
@@ -9,7 +9,16 @@ I will kick off with a 10 hour course in React from FreeCodeCamp, that is still 
 First day of course was environment set-up and creating the first component in React. I have done this a few times but it does not
 hurt to refresh the memory.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
+
+### Day 2: October 25, 2020
+
+**Today's Progress**: Another 2 hours of the course completed. And another 2 hours troubleshooting why hot reload is not working.
+After I gave up it just started working by itself... 😕 Programming...
+
+**Thoughts:** 
+
+**Link to work:** [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
 
 **Link(s) to work**
