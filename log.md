@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+---
 
 ### Day 1: October 24, 2020
 
@@ -11,6 +12,7 @@ hurt to refresh the memory.
 
 **Link to work:** [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
+---
 
 ### Day 2: October 25, 2020
 
@@ -21,6 +23,7 @@ After I gave up it just started working by itself... 😕 Programming...
 
 **Link to work:** [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
+---
 
 ### Day 3: October 26, 2020
 
@@ -33,6 +36,7 @@ After I gave up it just started working by itself... 😕 Programming...
 [Simple React app repo](https://github.com/GoranACM/Mini-book-project-100days)
 [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
+---
 
 ### Day 4: October 27, 2020
 
@@ -44,6 +48,19 @@ After I gave up it just started working by itself... 😕 Programming...
 [Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days)
 [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
+---
+
+### Day 5: October 28, 2020
+
+**Today's Progress:** Day 5 was for useEffect in ReactJS. The simple project today was fetching data from GitHub with useEffect and display it in a list.
+
+**Thoughts:** 
+
+**Link to work:** 
+[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days)
+[Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
+
+---
 
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
