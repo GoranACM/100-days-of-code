@@ -21,7 +21,8 @@ After I gave up it just started working by itself... 😕 Programming...
 
 **Thoughts:** 
 
-**Link to work:** [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
+**Link to work:** 
+[Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
 ---
 
@@ -32,9 +33,8 @@ Watch out #jeffbezos there's a new player in town 😂
 
 **Thoughts:** I thought you can only use netlify with GitHub. I was very wrong... (rubs hands)
 
-**Link to work:** 
-[Simple React app](https://react-tutorial-book-project.netlify.app/)
-[Simple React app repo](https://github.com/GoranACM/Mini-book-project-100days)
+**Link to work:** [Simple React app](https://react-tutorial-book-project.netlify.app/) | 
+[Simple React app repo](https://github.com/GoranACM/Mini-book-project-100days) | 
 [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
 ---
@@ -46,7 +46,7 @@ Watch out #jeffbezos there's a new player in town 😂
 **Thoughts:** 
 
 **Link to work:** 
-[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days)
+[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days) |
 [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
 ---
@@ -58,7 +58,7 @@ Watch out #jeffbezos there's a new player in town 😂
 **Thoughts:** 
 
 **Link to work:** 
-[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days)
+[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days) |
 [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
 ---
@@ -71,8 +71,21 @@ Watch out #jeffbezos there's a new player in town 😂
 **Thoughts:** 
 
 **Link to work:** 
-[Portfolio repo](https://github.com/GoranACM/portfolio)
+[Portfolio repo](https://github.com/GoranACM/portfolio) |
 [Goran Portfolio](https://goran.rocks/)
+
+---
+
+### Day 7: October 30, 2020
+
+**Today's Progress:** Day 7 and back on the React train. Today it was all about multiple returns, short-circuit evaluation, ternary operator and forms with 
+controlled input as well as multiple values input. 
+
+**Thoughts:** 
+
+**Link to work:** 
+[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days) |
+[Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 
 ---
 
