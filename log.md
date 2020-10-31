@@ -89,6 +89,18 @@ controlled input as well as multiple values input.
 
 ---
 
+### Day 8: October 31, 2020
+
+**Today's Progress:** A week done and a few more React hooks on day #8. useRef, useReducer and useContext were on the menu today, as well as custom hooks. 
+
+**Thoughts:** 
+
+**Link to work:** 
+[Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days) |
+[Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
