@@ -101,6 +101,22 @@ controlled input as well as multiple values input.
 
 ---
 
+### Day 9: November 01, 2020
+
+**Today's Progress:** 10hour React course done! I realised there is a complimentary 10hour video with 15 mini-projects. So...
+Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ https://2-out-of-15.netlify.app/ https://3-out-of-15.netlify.app/
+
+**Thoughts:** Always change the build setting in package.json to "set \"CI=false\" && react-scripts build", in order to build the project for production 
+
+**Link to work:** 
+[15 React projects repo](https://github.com/GoranACM/15-react-projects-100days) | 
+[Code 15 React projects - Complete course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2&ab_channel=freeCodeCamp.org) | 
+[1 - Birthday reminder](https://1-out-of-15.netlify.app/) | 
+[2 - Tours](https://2-out-of-15.netlify.app/) | 
+[3 - Reviews](https://3-out-of-15.netlify.app/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -109,3 +125,8 @@ controlled input as well as multiple values input.
 5. [Advanced React tutorial repo](https://github.com/GoranACM/Advanced-react-tutorial-100days)
 6. [Portfolio repo](https://github.com/GoranACM/portfolio)
 7. [Goran Portfolio](https://goran.rocks/)
+8. [15 React projects repo](https://github.com/GoranACM/15-react-projects-100days) 
+9. [Code 15 React projects - Complete course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2&ab_channel=freeCodeCamp.org) 
+10. [1 - Birthday reminder](https://1-out-of-15.netlify.app/) 
+11. [2 - Tours](https://2-out-of-15.netlify.app/) 
+12. [3 - Reviews](https://3-out-of-15.netlify.app/)
