@@ -117,6 +117,18 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 
 ---
 
+### Day 10: November 02, 2020
+
+**Today's Progress:** Someone has been asking me "Is it Christmas already?", so I made a react website with a Christmas countdown. https://whenischristmas.netlify.app
+
+**Thoughts:** 
+
+**Link to work:** 
+[Christmas countdown repo](https://github.com/GoranACM/christmas-countdown) | 
+[Christmas Countdown](https://whenischristmas.netlify.app)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -130,3 +142,5 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 10. [1 - Birthday reminder](https://1-out-of-15.netlify.app/) 
 11. [2 - Tours](https://2-out-of-15.netlify.app/) 
 12. [3 - Reviews](https://3-out-of-15.netlify.app/)
+13. [Christmas countdown repo](https://github.com/GoranACM/christmas-countdown)
+14. [Christmas Countdown](https://whenischristmas.netlify.app)
