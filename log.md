@@ -141,6 +141,8 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 [4 - Accordion](https://4-out-of-15.netlify.app/) | 
 [5 - Menu](https://5-out-of-15.netlify.app/) | 
 
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
