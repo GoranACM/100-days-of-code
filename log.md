@@ -129,6 +129,18 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 
 ---
 
+### Day 11: November 03, 2020
+
+**Today's Progress:** Going back to the React mini-projects on day 11 from the #100daysofcode. Projects 4 and 5 check them out ---> https://4-out-of-15.netlify.app/ https://5-out-of-15.netlify.app/
+
+**Thoughts:** Always change the build setting in package.json to "set \"CI=false\" && react-scripts build", in order to build the project for production 
+
+**Link to work:** 
+[15 React projects repo](https://github.com/GoranACM/15-react-projects-100days) | 
+[Code 15 React projects - Complete course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2&ab_channel=freeCodeCamp.org) | 
+[4 - Accordion](https://4-out-of-15.netlify.app/) | 
+[5 - Menu](https://5-out-of-15.netlify.app/) | 
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -144,3 +156,5 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 12. [3 - Reviews](https://3-out-of-15.netlify.app/)
 13. [Christmas countdown repo](https://github.com/GoranACM/christmas-countdown)
 14. [Christmas Countdown](https://whenischristmas.netlify.app)
+15. [4 - Accordion](https://4-out-of-15.netlify.app/)
+16. [5 - Menu](https://5-out-of-15.netlify.app/)
