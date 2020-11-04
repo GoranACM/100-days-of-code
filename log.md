@@ -143,6 +143,20 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 
 ---
 
+### Day 12: November 04, 2020
+
+**Today's Progress:** Two more mini-projects today. Tabs and Slider in #React. Projects 6 and 7 here ---> https://6-out-of-15.netlify.app/ and here ---> https://7-out-of-15.netlify.app/ #100daysofcode
+
+**Thoughts:** Always change the build setting in package.json to "set \"CI=false\" && react-scripts build", in order to build the project for production 
+
+**Link to work:** 
+[15 React projects repo](https://github.com/GoranACM/15-react-projects-100days) | 
+[Code 15 React projects - Complete course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2&ab_channel=freeCodeCamp.org) | 
+[6 - Tabs](https://6-out-of-15.netlify.app/) | 
+[7 - Slider](https://7-out-of-15.netlify.app/) | 
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -160,3 +174,5 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 14. [Christmas Countdown](https://whenischristmas.netlify.app)
 15. [4 - Accordion](https://4-out-of-15.netlify.app/)
 16. [5 - Menu](https://5-out-of-15.netlify.app/)
+17. [6 - Tabs](https://6-out-of-15.netlify.app/)
+18. [7 - Slider](https://7-out-of-15.netlify.app/)
