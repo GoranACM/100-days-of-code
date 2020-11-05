@@ -157,6 +157,21 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 
 ---
 
+### Day 13: November 05, 2020
+
+**Today's Progress:** The #React projects I made today are actually usable! Dummy text generator ---> https://8-out-of-15.netlify.app/ Color generator ---> https://9-out-of-15.netlify.app/ Grocery app ---> https://10-out-of-15.netlify.app/ Day #13 of #100daysofcode
+
+**Thoughts:** Always change the build setting in package.json to "set \"CI=false\" && react-scripts build", in order to build the project for production 
+
+**Link to work:** 
+[15 React projects repo](https://github.com/GoranACM/15-react-projects-100days) | 
+[Code 15 React projects - Complete course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2&ab_channel=freeCodeCamp.org) | 
+[8 - Lorem ipsum generator](https://8-out-of-15.netlify.app/) | 
+[9 - Color picker](https://9-out-of-15.netlify.app/) | 
+[10 - Grocery bud](https://10-out-of-15.netlify.app/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -176,3 +191,6 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 16. [5 - Menu](https://5-out-of-15.netlify.app/)
 17. [6 - Tabs](https://6-out-of-15.netlify.app/)
 18. [7 - Slider](https://7-out-of-15.netlify.app/)
+19. [8 - Lorem ipsum generator](https://8-out-of-15.netlify.app/)
+20. [9 - Color picker](https://9-out-of-15.netlify.app/) 
+21. [10 - Grocery bud](https://10-out-of-15.netlify.app/)
