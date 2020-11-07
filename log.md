@@ -172,6 +172,20 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 
 ---
 
+### Day 14: November 07, 2020
+
+**Today's Progress:** It is fine to take a day off, so I did yesterday. And today rounding up 2 weeks of #100daysofcode. Today's #React projects here--> https://11-out-of-15.netlify.app/ and here --> https://12-out-of-15.netlify.app/
+
+**Thoughts:** 
+
+**Link to work:** 
+[15 React projects repo](https://github.com/GoranACM/15-react-projects-100days) | 
+[Code 15 React projects - Complete course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2&ab_channel=freeCodeCamp.org) | 
+[11 - Navbar](https://11-out-of-15.netlify.app/) | 
+[12 - Sidebar](https://12-out-of-15.netlify.app/) | 
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -194,3 +208,5 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 19. [8 - Lorem ipsum generator](https://8-out-of-15.netlify.app/)
 20. [9 - Color picker](https://9-out-of-15.netlify.app/) 
 21. [10 - Grocery bud](https://10-out-of-15.netlify.app/)
+22. [11 - Navbar](https://11-out-of-15.netlify.app/)
+23. [12 - Sidebar](https://12-out-of-15.netlify.app/)
