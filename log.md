@@ -201,6 +201,19 @@ Day 9 of #100daysofcode projects 1-3 done! https://1-out-of-15.netlify.app/ http
 
 ---
 
+### Day 16: November 09, 2020
+
+**Today's Progress:** Day #16 from the #100daysofcode is a day off from React. Been meaning to implement my #AdobeXD mobile app designs to my portfolio a while now, and
+finally got to do it today using iFrame. Still a bit buggy on mobile but good in general. --> https://goran.rocks/
+
+**Thoughts:** 
+
+**Link to work:** 
+[Portfolio repo](https://github.com/GoranACM/portfolio) |
+[Goran Portfolio](https://goran.rocks/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
