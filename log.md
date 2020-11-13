@@ -214,6 +214,18 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 17: November 12, 2020
+
+**Today's Progress:** Yesterday I decided to do something light and created a simple little JS game with the help of Ania Kubow. It is a Doodle Jump game that I will tweak and style in the next few days, just thinking how it should look? 🤔 #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Doodle jump repo](https://github.com/GoranACM/doodle-jump) |
+[Doodle jump game](https://doodlejumpjs.netlify.app/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -241,3 +253,5 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 24. [13 - Stripe submenu](https://13-out-of-15.netlify.app/)
 25. [14 - Cart](https://14-out-of-15.netlify.app/)
 26. [15 - Cocktails](https://15-out-of-15.netlify.app/)
+27. [Doodle jump repo](https://github.com/GoranACM/doodle-jump)
+28. [Doodle jump game](https://doodlejumpjs.netlify.app/)
