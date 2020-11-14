@@ -226,6 +226,18 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 18: November 13, 2020
+
+**Today's Progress:** Added some buttons to my doodle game and a simple start screen. Day three should see me finish the functionality and I will share the link... unless I get stuck 😂 #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Doodle jump repo](https://github.com/GoranACM/doodle-jump) |
+[Doodle jump game](https://doodlejumpjs.netlify.app/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
