@@ -214,7 +214,7 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
-### Day 17: November 12, 2020
+### Day 17: November 13, 2020
 
 **Today's Progress:** Yesterday I decided to do something light and created a simple little JS game with the help of Ania Kubow. It is a Doodle Jump game that I will tweak and style in the next few days, just thinking how it should look? 🤔 #100daysofcode
 
@@ -226,9 +226,21 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
-### Day 18: November 13, 2020
+### Day 18: November 14, 2020
 
 **Today's Progress:** Added some buttons to my doodle game and a simple start screen. Day three should see me finish the functionality and I will share the link... unless I get stuck 😂 #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Doodle jump repo](https://github.com/GoranACM/doodle-jump) |
+[Doodle jump game](https://doodlejumpjs.netlify.app/)
+
+---
+
+### Day 19: November 15, 2020
+
+**Today's Progress:** Finished up the doodle game, and as predicted I got a bit stuck with the restart button (still not working). Anyway, it looks good and it is playable so give it a go --> https://doodlejumpjs.netlify.app #100daysofcode
 
 **Thoughts:** 
 
