@@ -250,6 +250,18 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 20: November 16, 2020
+
+**Today's Progress:** Back to React land, but this time #ReactNative. Did some refactoring on an app I worked on a few months ago and added the functionality to delete lists.  https://expo.io/@goranacm/projects/t-d_app Day #20 of #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[T-D App repo](https://github.com/GoranACM/TODOApp-RN-Firebase) |
+[T-D App](https://expo.io/@goranacm/projects/t-d_app)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -279,3 +291,5 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 26. [15 - Cocktails](https://15-out-of-15.netlify.app/)
 27. [Doodle jump repo](https://github.com/GoranACM/doodle-jump)
 28. [Doodle jump game](https://doodlejumpjs.netlify.app/)
+29. [T-D App repo](https://github.com/GoranACM/TODOApp-RN-Firebase)
+30. [T-D App](https://expo.io/@goranacm/projects/t-d_app)
