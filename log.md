@@ -262,6 +262,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 21: November 17, 2020
+
+**Today's Progress:** About a year ago I redeemed some free Udemy courses so I thought I should check what they are. Found one for a full-stack web app with MS SQL, ASP.NET and ReactJS. That should keep me busy for the next few days. Day #21 of #100daysofcode was the SQL setup for the app.
+
+**Thoughts:** 
+
+**Link to work:** 
+[Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app) |
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -293,3 +304,4 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 28. [Doodle jump game](https://doodlejumpjs.netlify.app/)
 29. [T-D App repo](https://github.com/GoranACM/TODOApp-RN-Firebase)
 30. [T-D App](https://expo.io/@goranacm/projects/t-d_app)
+31. [Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app)
