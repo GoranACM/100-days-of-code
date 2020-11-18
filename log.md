@@ -273,6 +273,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 22: November 18, 2020
+
+**Today's Progress:** Second day of full-stack app. Created a DB with a few tables and dummy data, created a Web API project in VS. Then I forced the Web API to give me a JSON instead of XML. Why? No idea, the guy in the video said so 😂 Day #22 of #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app) |
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
