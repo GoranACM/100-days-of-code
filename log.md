@@ -284,6 +284,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 23: November 22, 2020
+
+**Today's Progress:** Third day of full-stack app. Created GET, POST, PUT and DELETE methods for two tables in my DB. I got stuck with a few authentication issues, but solving them was a good feeling :) Day #23 of #100daysofcode
+
+**Thoughts:** Slightest changes when following tutorials can cause huge headaches 😂 And by that I mean the setup part of tutorials and not the coding. 
+
+**Link to work:** 
+[Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app) |
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
