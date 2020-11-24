@@ -295,6 +295,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 24: November 24, 2020
+
+**Today's Progress:** Day 4 of the full-stack app. Back to #React and creating components for the app. Looking good except my PUT method acts like a DELETE for now. Gonna fix it tomorrow Day #24 of #100daysofcode
+
+**Thoughts:**
+
+**Link to work:** 
+[Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app) |
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
