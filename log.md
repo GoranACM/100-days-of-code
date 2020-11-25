@@ -306,6 +306,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 25: November 25, 2020
+
+**Today's Progress:** Full-stack app all done. The final step is figuring out how to deploy it, since it has 3 elements to it (API, DB and React). Day #25 of #100daysofcode
+
+**Thoughts:**
+
+**Link to work:** 
+[Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app) |
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
