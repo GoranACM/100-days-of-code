@@ -328,6 +328,18 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 27: December 01, 2020
+
+**Today's Progress:** Today was portfolio tweak day. Simple but nice custom scrollbar. Is it me or does everything look better in dark mode 🤔. Day #27 of #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Portfolio repo](https://github.com/GoranACM/portfolio) |
+[Goran Portfolio](https://goran.rocks/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
