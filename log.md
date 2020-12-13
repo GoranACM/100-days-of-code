@@ -340,6 +340,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 28: December 13, 2020
+
+**Today's Progress:** Done with slacking and back to coding. Started another project with the help of FreeCodeCamp. This time it will be a social media app with the whole #mernstack + #GraphQL. Day #28 of #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -372,3 +383,4 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 29. [T-D App repo](https://github.com/GoranACM/TODOApp-RN-Firebase)
 30. [T-D App](https://expo.io/@goranacm/projects/t-d_app)
 31. [Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app)
+32. [Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
