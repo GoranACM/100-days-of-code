@@ -351,6 +351,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 29: December 17, 2020
+
+**Today's Progress:** Done some validation and user registrations/logins for the Social media app with #mern. Also set up dummy posts data. Day #29 of #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
