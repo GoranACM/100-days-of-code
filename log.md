@@ -362,6 +362,18 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 30: December 21, 2020
+
+**Today's Progress:** All of the server side code done. Users, posts, comments, likes etc. Gonna move to pretty things tomorrow hopefully. Day #30 of #100daysofcode
+
+**Thoughts:** 
+
+**Link to work:** 
+[Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
+[Social media app repo](https://github.com/GoranACM/social-media-app)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -395,3 +407,4 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 30. [T-D App](https://expo.io/@goranacm/projects/t-d_app)
 31. [Full stack Web App repo](https://github.com/GoranACM/Full-stack-web-app)
 32. [Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
+33. [Social media app repo](https://github.com/GoranACM/social-media-app)
