@@ -386,6 +386,18 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 32: December 27, 2020
+
+**Today's Progress:** Day #32 of #100daysofcode and the social media app is coming along nicely. Authentication for users done as well as posting new posts apollo and graphql.
+
+**Thoughts:** 
+
+**Link to work:** 
+[Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
+[Social media app repo](https://github.com/GoranACM/social-media-app)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
