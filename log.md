@@ -409,6 +409,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 34: January 09, 2021
+
+**Today's Progress:** Amazing how you can bang your head and not find a bug for days and then that same bug you fix in 3 minutes. Anyway... Social media app done! Deploy is all I need to do but I am tired, so it will have to wait again :) Day #34 of #100daysofcode 
+**Thoughts:** 
+
+**Link to work:** 
+[Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
+[Social media app repo](https://github.com/GoranACM/social-media-app)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
