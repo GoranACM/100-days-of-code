@@ -432,6 +432,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 36: February 13, 2021
+
+**Today's Progress:** Day #36 of #100daysofcode comes after 3 weeks of no coding 🙄 Anyway, there is this super cool CMS called Hubspot. I will be doing the developer course accreditation in the next few days/weeks. Day 1 is environment setup and creating a simple page --> http://hubspot-developers-15xk4ih-9417014.hs-sites.com/about-us
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+[Simple Hubspot page](http://hubspot-developers-15xk4ih-9417014.hs-sites.com/about-us)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -467,3 +478,5 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 32. [Full MERNG Course](https://www.youtube.com/watch?v=n1mdAPFq2Os&ab_channel=freeCodeCamp.org)
 33. [Social media app repo](https://github.com/GoranACM/social-media-app)
 34. [Social media app](https://goransocialmedia.netlify.app/)
+35. [Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+36. [Simple Hubspot page](http://hubspot-developers-15xk4ih-9417014.hs-sites.com/about-us)
