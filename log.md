@@ -443,6 +443,16 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 37: February 14, 2021
+
+**Today's Progress:** Day #37 of #100daysofcode and I finished the second module of the HubSpot for Devs certification. It teaches the sintax of the HubL markup language as well as how to use it to create simple templates from scratch and upload them to the HubSpot CMS. Here is my first page from my first template --> http://hubspot-developers-15xk4ih-9417014.hs-sites.com/demo-page
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+[Simple Hubspot page from out-of-scratch-template](http://hubspot-developers-15xk4ih-9417014.hs-sites.com/demo-page)
+
+---
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
@@ -480,3 +490,4 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 34. [Social media app](https://goransocialmedia.netlify.app/)
 35. [Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
 36. [Simple Hubspot page](http://hubspot-developers-15xk4ih-9417014.hs-sites.com/about-us)
+37. [Simple Hubspot page from out-of-scratch-template](http://hubspot-developers-15xk4ih-9417014.hs-sites.com/demo-page)
