@@ -453,6 +453,17 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 [Simple Hubspot page from out-of-scratch-template](http://hubspot-developers-15xk4ih-9417014.hs-sites.com/demo-page)
 
 ---
+
+### Day 38: February 18, 2021
+
+**Today's Progress:** I finished the third module of the HubSpot for Devs certification. And it was about creating custom... Modules! Hubspot recommends creating custom modules even when they're not a big necessity because they are, and I quote "consistent and portable". Day #38 of #100daysofcode
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
