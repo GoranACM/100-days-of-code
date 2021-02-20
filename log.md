@@ -464,6 +464,16 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 39: February 20, 2021
+
+**Today's Progress:** Completed the Hubspot CMS Dev course but still a few extra things to do to get the cert. Today's focus was on HubDB and creating tables, dynamic pages and links. Example http://hubspot-developers-15xk4ih-9417014.hs-sites.com/dynamic-hubdb-demo Day #39 of #100daysofcode
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
