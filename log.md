@@ -474,6 +474,16 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 40: February 21, 2021
+
+**Today's Progress:** Day #40 of #100daysofcode was for Introduction to the HubSpot APIs. Created a proper dev and test account, created a small Hello World app with the APIs and also created a custom CRM property. Then I created a form and was able to change the CRM property through a simple front-end page. Not too bad...
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
