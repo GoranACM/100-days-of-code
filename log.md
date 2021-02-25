@@ -484,6 +484,16 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 41: February 24, 2021
+
+**Today's Progress:** Some more APIs today. Yesterday was for access keys today was OAuth. Got a bit stuck at the end with the contacts permissions in Hubspot, hopefully I can solve it tomorrow. Day #41 od #100daysofcode
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
