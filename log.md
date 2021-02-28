@@ -504,6 +504,16 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 43: February 27, 2021
+
+**Today's Progress:** Day #43 of #100daysofcode. This time dived into the CRM aspects of HubSpot from both dev and user perspective. Finished up with some Postman requests for contacts, events and tickets.
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
