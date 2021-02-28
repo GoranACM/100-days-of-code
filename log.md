@@ -514,6 +514,20 @@ finally got to do it today using iFrame. Still a bit buggy on mobile but good in
 
 ---
 
+### Day 44: February 28, 2021
+
+**Today's Progress:**
+✅ Simple front-end book review page 
+✅ Create a book review event with the Timeline API
+✅ Intro to the HubSpot APIs
+✅ #44 of #100daysofcode
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
