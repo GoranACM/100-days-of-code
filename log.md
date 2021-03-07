@@ -540,6 +540,18 @@ As I was looking for more Hubspot tutorials I ran into a Build your first web ap
 
 ---
 
+### Day 46: March 07, 2021
+
+**Today's Progress:**
+A few upgrades to the "Web App" on day #46 of #100daysofcode. To practice with APIs I created a current weather search bar on the main page, pulling data from OpenWeather APIs ---> https://stark-falls-72032.herokuapp.com
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+[Simple web app](https://stark-falls-72032.herokuapp.com/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
