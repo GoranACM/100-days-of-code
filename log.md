@@ -552,6 +552,18 @@ A few upgrades to the "Web App" on day #46 of #100daysofcode. To practice with A
 
 ---
 
+### Day 47: March 08, 2021
+
+**Today's Progress:**
+Finished up my "Web App" and added a Database page. Simple google log-in, posting into the DB and displaying the posts. I used Firebase. Thank you @HubSpotAcademy for the course. Day #47 of #100daysofcode. ---> https://stark-falls-72032.herokuapp.com/about
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/493379/tracks/121/813/3416)
+[Simple web app](https://stark-falls-72032.herokuapp.com/about)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
