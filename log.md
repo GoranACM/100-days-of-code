@@ -564,6 +564,18 @@ Finished up my "Web App" and added a Database page. Simple google log-in, postin
 
 ---
 
+### Day 48: April 10, 2021
+
+**Today's Progress:**
+Been a while... Coding for work does not count and that was all I did in the last month. Finally found some time to update my portfolio today and also get another HubSpot Academy certificate, Growth-Driven Design. Day #48 of #100daysofcode. https://goran.rocks/
+**Thoughts:** 
+
+**Link to work:** 
+[Hubspot Academy](https://app.hubspot.com/academy/3407653/tracks/21/exam/award/21/AcademyGrowthDrivenDesignCertification)
+[Goran Portfolio](https://goran.rocks/)
+
+---
+
 **Link(s) to work**
 1. [Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
 2. [React - 10 hour course](https://www.freecodecamp.org/news/react-10-hour-course/)
